@@ -1,0 +1,5 @@
+# Development dependencies
+-r requirements.txt
+
+# Optional: for live Playwright-based scraping
+playwright>=1.40.0
